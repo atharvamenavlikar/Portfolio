@@ -69,7 +69,6 @@ export default function RootLayout({ children }) {
               </div>
               <div className="footer-bottom-center">
                 <span>© {new Date().getFullYear()} <a href="/#about">Atharva Menavlikar</a></span>
-                <span> Built with <a href="https://nextjs.org" target="_blank" rel="noreferrer">Next.js</a></span>
               </div>
               <nav className="footer-links footer-links--bottom" aria-label="Footer">
                 <a href="/#about">About</a>

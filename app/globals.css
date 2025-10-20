@@ -3,14 +3,14 @@
 html, body { margin: 0; padding: 0; }
 
 :root {
-  --bg: #0f172a;
-  --surface: #ffffff;
-  --muted-surface: #f6f7fb;
-  --text: #0f172a;
-  --muted: #64748b;
-  --link: #2563eb;
-  --accent: #111827;
-  --border: #e5e7eb;
+  --bg: #0b0c10;
+  --surface: #12151c;
+  --muted-surface: #0f131a;
+  --text: #e5e7eb;
+  --muted: #94a3b8;
+  --link: #60a5fa;
+  --accent: #e2e8f0;
+  --border: #1f2937;
   --container: min(94vw, 1360px);
 }
 

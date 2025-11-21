@@ -42,6 +42,17 @@ export default function ExperienceSection() {
 
   const experiences = [
     {
+      company: "Excellus BCBS",
+      logo: "https://cdn.brandfetch.io/idHbuznbFA/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1756407342321",
+      role: "Software Development Intern",
+      period: "Oct 2025 - Present",
+      location: "Rochester, NY",
+      achievements: [
+        "Automating manual ad-hoc processes to streamline team operations",
+        "Contributing to the development and improvement of internal web applications"
+      ]
+    },
+    {
       company: "AppZen",
       logo: "https://cdn.brandfetch.io/idb4RBf6jl/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1672835451241",
       role: "Customer Engineering and Global Support Intern",
